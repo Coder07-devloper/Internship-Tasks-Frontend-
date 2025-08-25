@@ -24,6 +24,10 @@ A modern React application for generating random strings with customizable optio
 - **useCallback** - For performance optimization of the generation function
 - **useEffect** - For side effects and auto-generation
 
+**Screenshot
+<img width="1200" height="800" alt="screenshots" src="https://github.com/user-attachments/assets/f6a9d692-bbab-43fa-ab7a-8b658445670a" />
+
+
 ## 🛠️ Installation & Setup
 
 1. **Clone or navigate to the project directory:**
