@@ -54,15 +54,6 @@ src/
 - Vite
 - CSS
 
-## 📸 Screenshots
-
-*Add screenshots of your app here:*
-
-- Home page
-- Products page
-- Product detail page
-- Contact page
-- 404 page
 
 ## 🔧 Customization
 
